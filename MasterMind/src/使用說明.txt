@@ -1,0 +1,14 @@
+javac成class之後
+
+輸入：
+
+java MasterMindTest Human
+
+或
+
+java MasterMindTest Computer
+
+
+
+p.s.
+Human版之正解在cmd
